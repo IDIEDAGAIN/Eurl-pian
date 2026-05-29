@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.sync_apartment_on_order_completed() FROM PUBLIC, anon, authenticated;
